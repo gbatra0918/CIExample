@@ -9,7 +9,7 @@ public class EndsWith5Test {
 	@Test
 	public void testToString() {
 		EndsWith5 five = new EndsWith5();
-		assertEquals("EndsWith5 [names=Daniel Mahoney\nKyle Polewaczyk\nGautam Batra\n]", five.toString());
+		assertEquals("EndsWith5 [names=Daniel Mahoney\nKyle Polewaczyk\n]", five.toString());
 		
 	}
 
